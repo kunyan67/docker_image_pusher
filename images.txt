@@ -1,2 +1,1 @@
-ubuntu 
-dustynv/jetson-inference:r32.6.1  
+dustynv/jetson-inference:r32.6.1   
